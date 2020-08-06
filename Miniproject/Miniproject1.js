@@ -43,3 +43,9 @@ function makeGray(){
   }
   image.drawTo(imgcanvas);
 }
+
+
+
+
+
+

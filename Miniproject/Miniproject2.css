@@ -1,0 +1,14 @@
+h2{
+	color:Red;
+	text-align: center;
+}
+#can{
+	width:400pt;
+	height: 250pt;
+	border:2pt dashed sienna;
+}
+#but{
+	background-color: rgb(255,0,0);
+	padding: 4px;
+
+}
